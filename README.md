@@ -3,7 +3,7 @@
 - 📖 I'm a sophomore at the University of Nebraska Lincoln, currently pursuing  a bachelors in Software Engineering and a minor in Math 
 - 🤓 I'm seeking every opportunity to learn and grow as a young developer, leading me to new skills around every corner
 - 💡Getting young girls involved in STEM early is a massive goal and passion of mine
-- 🥽 My goal in the future is to work on new and inovative virutal reality projects!
+- 🥽 My goal in the future is to work on new and innovative virutal virtual projects!
 - 🐛 I'm a lover of all bugs, video games, and ttrpg!
 
 ## <h2 align="center"> ~ Programming Languages ~ </h2>
@@ -27,8 +27,7 @@
 
 ### <h2 align="center"> ~ Current Projects ~ </h2>
 <p align="center" font-size=40> TBD... </p>
-
-## ⭐ - Thanks for Visiting! - ⭐
+<h2 align="center"> ⭐ - Thanks for Visiting! - ⭐ <h2>
 <div align="center">
   <img src="https://cdn.wallpapersafari.com/52/15/P3Hu8j.png" width="70" height=auto>
 </div>
