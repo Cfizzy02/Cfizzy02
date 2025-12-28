@@ -4,6 +4,7 @@
 - 🤓 I'm seeking every opportunity to learn and grow as a young developer, leading me to new skills around every corner
 - 💡Getting young girls involved in STEM early is a massive goal and passion of mine
 - 🐛 I'm a lover of all bugs, video games, and ttrpg!
+- 
 
 ## <h2 align="center"> ~ Programming Languages ~ </h2>
   <p align="left">
@@ -24,10 +25,9 @@
     <img src="https://images.icon-icons.com/1495/PNG/512/unityeditoricon_103179.png" width=75 length=75>
   </p>
 
-### <h2 align="center"> ~ Some Fun Links ~ </h2>
-- [LinkedIn](https://www.linkedin.com/in/chloefisicaro/) I love making connections! Add me on LinkedIn!
-- [MarkDownSyntax](https://github.com/ArvidHS/readme-markdown-syntax?tab=readme-ov-file#the-complete-guide-of--readme-markdown-syntax) 
-- [AwesomeGithubProfiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+### <h2 align="center"> ~ Current Projects ~ </h2>
+<p align="center"> TBD... </p>
+
 <div align="center">
-  <img src="https://cdn.wallpapersafari.com/52/15/P3Hu8j.png" width="20" height=auto>
+  <img src="https://cdn.wallpapersafari.com/52/15/P3Hu8j.png" width="40" height=auto>
 </div>
