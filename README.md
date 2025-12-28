@@ -1,4 +1,4 @@
-# <h1 align="center"> - Hello World! I'm Chloe Fisicaro - </h1> <img src="https://giffiles.alphacoders.com/297/29710.gif" width="425" height="240" align="middle">
+# <h1 align="center"> - Hello World! I'm Chloe Fisicaro - </h1> <p><img src="https://giffiles.alphacoders.com/297/29710.gif" width="425" height="240" align="middle"></p> 
 ## <h2 align="center"> ~ About Me ~ </h2>
 - 📖 I'm a sophomore at the University of Nebraska Lincoln, currently pursuing  a bachelors in Software Engineering and a minor in Math 
 - 🤓 I'm seeking every opportunity to learn and grow as a young developer, leading me to new skills around every corner
