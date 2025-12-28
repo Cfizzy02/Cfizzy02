@@ -25,8 +25,9 @@
     <img src="https://images.icon-icons.com/1495/PNG/512/unityeditoricon_103179.png" width=75 length=75>
   </p>
 
-### <h2 align="center"> ~ Current Projects ~ </h2>
+## <h2 align="center"> ~ Current Projects ~ </h2>
 <p align="center" font-size=40> TBD... </p>
+
 <h2 align="center"> ⭐ - Thanks for Visiting! - ⭐ <h2>
 <div align="center">
   <img src="https://cdn.wallpapersafari.com/52/15/P3Hu8j.png" width="70" height=auto>
